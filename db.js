@@ -10,5 +10,9 @@ module.exports = {
     comments: [
         { id: 987, post_id: 1, body: "Consectetur adipiscing elit", date: new Date('2017-07-03') },
         { id: 995, post_id: 1, body: "Nam molestie pellentesque dui", date: new Date('2017-08-17') }
+    ],
+    languages: [
+        { id: 10, languageName: "JavaScript", yearsOfExperience: 5 },
+        { id: 11, languageName: "Python", yearsOfExperience: 2 }
     ]
 }
